@@ -1,4 +1,4 @@
-- 👋 Hi, I’m emmanuel-angelo
+- 👋 Hi, I’m @emmanuelangelo4199
 - 👀 I’m interested in BasketBall 🏀🏀, Music🎧, Movies🎬 &Gaming 🎮
 - 🌱 I’m currently learning Java, Html, Css &JavaScript;
 - 💞️ I’m looking to collaborate with Junior, Seniors and Masters in Web App development to learn more and advance in many aspect 
