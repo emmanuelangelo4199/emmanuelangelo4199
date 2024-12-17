@@ -2,7 +2,7 @@
 - 👀 I’m interested in BasketBall 🏀🏀, Music🎧, Movies🎬 &Gaming 🎮
 - 🌱 I’m currently learning Java, Html, Css &JavaScript;
 - 💞️ I’m looking to collaborate with Junior, Seniors and Masters in Web App development to learn more and advance in many aspect 
-- 📫 How to reach me @twitter -youngthug4196(mr angelo999),    @insta -mr_angelo4199,    @snap   -youngthug4199(Angelo😈💀)    @Linkedin   -Okwaraigwe Emmanuel Kwame Angelo
+- 📫 How to reach me @twitter -youngthug4196(mr angelo999),    @insta -mr_angelo4199,    @snap   -youngthug4199(Angelo😈💀)    @Linkedin   -mrangelo4199(https://www.linkedin.com/in/mrangelo4199)
 - 😄 Pronouns: ... HIM
 - ⚡ Fun fact: ... Count your Blessing one by one🙂🙃
 
