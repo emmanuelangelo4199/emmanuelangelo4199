@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @emmanuelangelo4199
+- 👋 Hi, I’m Angelo
 - 👀 I’m interested in BasketBall 🏀🏀, Music🎧, Movies🎬 &Gaming 🎮 <br>
-- 💞️ I’m looking to collaborate with Junior, Seniors and Masters in Web App development to learn more and advance in many aspect <br>
-- 📫 How to reach me @twitter -mrangelo4199,    @insta -mr_angelo4199,    @snap   -mrangelo4199(Angelo😈💀) <br>    @Linkedin   -mrangelo4199(https://www.linkedin.com/in/mrangelo4199) <br>
-- 😄 Pronouns: ... HIM
-- ⚡ Fun fact: ... Count your Blessing one by one🙂🙃
-
+- 💞️ I’m looking to collaborate with Junior& Seniors in Web App development to learn more and grow into the ever evolving world of tech  <br>
+- 📫 How to reach me @twitter -mrangelo4199,    @insta -mr_angelo4199,    @snap -mrangelo4199(Angelo😈💀) <br>  @Linkedin   -mrangelo4199(https://www.linkedin.com/in/mrangelo4199) <br>
+- 😄 Pronouns: ... HIM/ HE
+- ⚡ Fun fact: ... If it runs, check for bugs and exeception. Always find ways to improve it......
 
 
 ## 🌐 Socials:
