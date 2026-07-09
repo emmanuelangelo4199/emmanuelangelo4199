@@ -74,17 +74,6 @@ I specialize in building secure web applications, managing databases seamlessly,
 
 ---
 
-## 📈 GitHub Metrics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=emmanuelangelo4199&show_icons=true&theme=dark&bg_color=092E20&title_color=ffffff&icon_color=44bb87&text_color=ffffff" alt="Emmanuel's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=emmanuelangelo4199&theme=dark&background=092E20&title=ffffff&sideTitle=ffffff&sideValue=ffffff&stroke=44bb87&ring=44bb87" alt="GitHub Streak" />
-</p>
-
----
-
 ## 🌐 Socials & Networks
 Let's connect, share insights, or talk code architectures:
 
