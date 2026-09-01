@@ -1,18 +1,35 @@
 <h1 align="center">Hi, I'm Angelo 👋</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=092E20&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Django+%26+Python+Enthusiast;UI%2FUX+Explorer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=092E20&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Django+%26+Python+Enthusiast;UI%2FUX+Explorer;Open+Source+Contributor" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <a href="https://github.com/emmanuelangelo4199">
     <img src="https://img.shields.io/github/followers/emmanuelangelo4199?label=Followers&style=social" alt="GitHub Followers">
   </a>
+  <a href="https://github.com/emmanuelangelo4199">
+    <img src="https://komarev.com/ghpvc/?username=emmanuelangelo4199&color=blue&style=flat-square" alt="Profile Views">
+  </a>
 </p>
 
----
+
+
+## 🧑‍💻 About Me
+I'm a passionate full-stack developer who enjoys building secure web applications, designing clean database architectures, and crafting modern user experiences. I care about writing clean, maintainable code—and yes, I genuinely think Django is one of the most beautiful frameworks out there.
+
+
+
+## 🚀 Current Update
+
+- 🔭 **Currently working on:** Full-stack web application architecture with Django & REST APIs  
+- 🌱 **Learning:** Complex Python/Django modules, database optimization, and modern design systems  
+- 🎨 **Exploring:** TailwindCSS, Figma workflows, and micro-interactions for better UI/UX  
+- ⚡ **Experimenting with:** Cloudflare Workers and serverless deployments  
+- 💬 **Ask me about:** Backend logic, databases, wireframes, or why Django is incredibly clean to write  
+
+
 
 ## 🛠️ Tech Stack & Skillset
-I specialize in building secure web applications, managing databases seamlessly, and drafting modern user interfaces.
 
 ### Backend & Frameworks
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -39,16 +56,22 @@ I specialize in building secure web applications, managing databases seamlessly,
 ![](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 
----
 
-### 🤝 Connect with Me
-* 💼 Working on: Web application architectures & elegant UI flows.
-* 🌱 Learning: Deepening my knowledge in complex Python/Django modules and modern design systems.
-* 💬 Ask me about: Backend logic, databases, wireframes, or why Django is incredibly clean to write.
 
----
+## 📊 GitHub Stats
 
-## 🕹️ Interactive Mini-Game: BUG HUNTER v1.0
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=emmanuelangelo4199&show_icons=true&theme=vue" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=emmanuelangelo4199&theme=vue" alt="GitHub Streak" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emmanuelangelo4199&layout=compact&theme=vue" alt="Top Languages" width="48%" />
+</p>
+
+
+
+## 🕹️ Interactive Mini-Game: BUG HUNTER v2.0
 *Production server is under attack by rogue runtime bugs! Click an enemy target below to trigger an Issue ticket template and deploy a patch.*
 
 <p align="center">
@@ -72,10 +95,9 @@ I specialize in building secure web applications, managing databases seamlessly,
   <b>Current Status:</b> <code>All systems operational. Ready for deployment.</code>
 </p>
 
----
+
 
 ## 🌐 Socials & Networks
-Let's connect, share insights, or talk code architectures:
 
 <p align="center">
   <a href="https://www.linkedin.com/in/emmanuel-angelo" target="_blank">
@@ -90,9 +112,6 @@ Let's connect, share insights, or talk code architectures:
   <a href="https://discord.gg/mr_angelo4196" target="_blank">
     <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
-</p>
-
-<p align="center">
   <a href="https://x.com/mrangelo4199" target="_blank">
     <img src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white" alt="X" />
   </a>
