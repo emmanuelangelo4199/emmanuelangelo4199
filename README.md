@@ -1,124 +1,166 @@
-<h1 align="center">Hi, I'm Angelo 👋</h1>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=092E20&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Django+%26+Python+Enthusiast;UI%2FUX+Explorer;Open+Source+Contributor" alt="Typing SVG" />
-</p>
+<!--
+  GitHub profile README.
+  This repo must be PUBLIC and named exactly like your GitHub username
+  (emmanuelangelo4199/emmanuelangelo4199) for this file to show on your profile.
+-->
 
-<p align="center">
-  <a href="https://github.com/emmanuelangelo4199">
-    <img src="https://img.shields.io/github/followers/emmanuelangelo4199?label=Followers&style=social" alt="GitHub Followers">
-  </a>
-  <a href="https://github.com/emmanuelangelo4199">
-    <img src="https://komarev.com/ghpvc/?username=emmanuelangelo4199&color=blue&style=flat-square" alt="Profile Views">
-  </a>
-</p>
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Emmanuel%20Angelo&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Web%20Developer%20%C2%B7%20Python%20%C2%B7%20Django%20%C2%B7%20MySQL%20%C2%B7%20Accra%2C%20Ghana&descAlignY=55&descSize=18" width="100%"/>
 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=38BDAE&center=true&vCenter=true&width=600&lines=Building+full-stack+web+apps+with+Django.;Python+%2B+Django+%2B+MySQL+%2B+Bootstrap.;Learning+in+public.+Shipping+in+public.;python+manage.py+runserver" alt="Typing SVG" />
 
-## 🧑‍💻 About Me
-I'm a passionate full-stack developer who enjoys building secure web applications, designing clean database architectures, and crafting modern user experiences. I care about writing clean, maintainable code—and yes, I genuinely think Django is one of the most beautiful frameworks out there.
+<br/>
 
+<!-- Uncomment and edit once your portfolio site is live:
+[![Portfolio](https://img.shields.io/badge/Portfolio-your--site.com-2c5364?style=flat-square&logo=vercel&logoColor=white)](https://your-site.com/)
+-->
+[![Profile Views](https://komarev.com/ghpvc/?username=emmanuelangelo4199&label=views&color=38bdae&style=flat-square)](https://github.com/emmanuelangelo4199)
+<!-- Ghana Rank badge only renders if you appear on the committers.top Ghana list:
+[![Ghana Rank](https://user-badge.committers.top/ghana/emmanuelangelo4199.svg)](https://github.com/emmanuelangelo4199)
+-->
 
+</div>
 
-## 🚀 Current Update
+## `$ whoami`
 
-- 🔭 **Currently working on:** Full-stack web application architecture with Django & REST APIs  
-- 🌱 **Learning:** Complex Python/Django modules, database optimization, and modern design systems  
-- 🎨 **Exploring:** TailwindCSS, Figma workflows, and micro-interactions for better UI/UX  
-- ⚡ **Experimenting with:** Cloudflare Workers and serverless deployments  
-- 💬 **Ask me about:** Backend logic, databases, wireframes, or why Django is incredibly clean to write  
+```python
+angelo = {
+    "location": "Across Gastby",
+    "role": "Full-Stack Web Developer",
+    "focus": ["Web", "Mobile", "Backend", "Django", "AI Prompting", "SEO"],
 
+    "daily_drivers": {
+        "backend":  ["Python", "Django", "DRF", "MySQL"],
+        "frontend": ["HTML5", "CSS", "Bootstrap", "Tailwind", "JavaScript"],
+        "desktop":  ["ASP.NET (C#)", "Visual Basic"],
+        "tools":    ["Git", "GitHub", "VS Code"],
+    },
 
+    "philosophy": "Build in public. Ship, learn, repeat.",
+    "when_stuck": lambda: read_the_traceback(),  # 🐍 twice, slowly
+}
+```
 
-## 🛠️ Tech Stack & Skillset
+## `$ current --focus`
 
-### Backend & Frameworks
-![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![](https://img.shields.io/badge/Django_REST-ff1709?style=for-the-badge&logo=django&logoColor=white)
-![](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### Frontend & Design
-![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![](https://img.shields.io/badge/Bootstrap-8511FA?style=for-the-badge&logo=bootstrap&logoColor=white)
-![](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)
+**🐍 Full-Stack Django**<br/>
+End-to-end web platforms: custom user models, REST APIs, real-time features with Django Channels, and MySQL-backed data layers.
 
-### Databases, DevOps & Cloud
-![](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-![](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+**🤖 AI-Assisted Building**<br/>
+Prompting AI tools to prototype interfaces and move faster, while still reading, testing and owning every line that ships.
 
+</td>
+<td width="50%" valign="top">
 
+**🌍 Built for Ghana**<br/>
+Products rooted in local context, like an artisan marketplace with cultural storytelling and Mobile Money payment options.
 
-## 📊 GitHub Stats
+**🔍 SEO & Web Presence**<br/>
+Fast, well-structured pages that are easy to find, with SEO fundamentals baked in from the first template.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=emmanuelangelo4199&show_icons=true&theme=vue" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=emmanuelangelo4199&theme=vue" alt="GitHub Streak" width="48%" />
-</p>
+</td>
+</tr>
+</table>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emmanuelangelo4199&layout=compact&theme=vue" alt="Top Languages" width="48%" />
-</p>
+## `$ stack --list`
 
+<div align="center">
 
+**Languages & Frameworks**
 
-## 🕹️ Interactive Mini-Game: BUG HUNTER v2.0
-*Production server is under attack by rogue runtime bugs! Click an enemy target below to trigger an Issue ticket template and deploy a patch.*
+<img src="https://skillicons.dev/icons?i=python,django,js,java,cs,dotnet,html,css,bootstrap,tailwind&perline=10" />
 
-<p align="center">
-  <!-- Bug 1: Syntax Error -->
-  <a href="https://github.com/emmanuelangelo4199/emmanuelangelo4199/issues/new?title=%F0%9F%90%9B+Bug+Squashed%3A+Syntax+Error&body=%E2%9A%99%EF%B8%8F+Target+Eliminated%21%0A%0AI+spotted+and+destroyed+a+Syntax+Error+on+your+profile.+Keep+up+the+clean+code%2C+Emmanuel%21">
-    <img src="https://img.shields.io/badge/%5B%20%F0%9F%AA%B2%20%5D-SYNTAX__ERROR-red?style=for-the-badge" alt="Target 1">
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <!-- Bug 2: Memory Leak -->
-  <a href="https://github.com/emmanuelangelo4199/emmanuelangelo4199/issues/new?title=%F0%9F%AA%B2+Bug+Squashed%3A+Memory+Leak&body=%F0%9F%92%A7+Target+Eliminated%21%0A%0AI+patched+a+Memory+Leak+draining+your+profile%27s+resources.+Great+stack+you%27ve+got+here%21">
-    <img src="https://img.shields.io/badge/%5B%20%F0%9F%AA%B2%20%5D-MEMORY__LEAK-orange?style=for-the-badge" alt="Target 2">
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <!-- Bug 3: Infinite Loop -->
-  <a href="https://github.com/emmanuelangelo4199/emmanuelangelo4199/issues/new?title=%F0%9F%94%84+Bug+Squashed%3A+Infinite+Loop&body=%F0%9F%94%83+Target+Eliminated%21%0A%0AI+broke+an+Infinite+Loop+that+was+spinning+out+of+control.+Your+Django+backend+is+safe+now%21">
-    <img src="https://img.shields.io/badge/%5B%20%F0%9F%AA%B2%20%5D-INFINITE__LOOP-yellow?style=for-the-badge" alt="Target 3">
-  </a>
-</p>
+**Data, Tools & Environment**
 
-<p align="center">
-  <b>Current Status:</b> <code>All systems operational. Ready for deployment.</code>
-</p>
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,git,github,vscode,linux&perline=8" />
 
+</div>
 
+## `$ ls projects/ --featured`
 
-## 🌐 Socials & Networks
+<!-- Repo links below assume the repos live under your account. Update the URLs if the names differ. -->
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/emmanuel-angelo" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:emmanuelmezie578@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://stackoverflow.com/users/22767899" target="_blank">
-    <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="StackOverflow" />
-  </a>
-  <a href="https://discord.gg/mr_angelo4196" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-  </a>
-  <a href="https://x.com/mrangelo4199" target="_blank">
-    <img src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white" alt="X" />
-  </a>
-  <a href="https://instagram.com/mr_angelo4199" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://tiktok.com/@mr_angelo4199" target="_blank">
-    <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" alt="TikTok" />
-  </a>
-</p>
+**🥗 [Porcion](https://github.com/emmanuelangelo4199/procion)**<br/>
+Behavioral weight-management platform with emotion-food tracking, peer accountability circles, and real-time group chat via Django Channels.<br/>
+`Django` · UEW Capstone
+
+</td>
+<td width="50%" valign="top">
+
+**🏺 [Adeso](https://github.com/emmanuelangelo4199/adeso)**<br/>
+A marketplace celebrating Ghanaian artisans: artisan profiles, cultural context, a DRF API layer, and payment options including MTN Mobile Money.<br/>
+`Django` · `DRF` · Culture × Code
+
+</td>
+</tr>
+<!-- To add a third project: copy a <td> block above and set every width to "33%". -->
+</table>
+
+## `$ git stats`
+
+<div align="center">
+
+<img src="https://github-readme-stats.shion.dev/api?username=emmanuelangelo4199&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9" height="165" alt="stats" />
+<img src="https://raw.githubusercontent.com/emmanuelangelo4199/emmanuelangelo4199/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" height="165" alt="languages" />
+
+[![trophy](https://github-trophies.vercel.app/?username=emmanuelangelo4199&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+<img src="https://streak-stats.demolab.com?user=emmanuelangelo4199&theme=tokyonight&hide_border=true&background=00000000&ring=38bdae&fire=38bdae&currStreakLabel=38bdae" height="165" alt="streak" />
+
+<!-- Contribution snake (generated by .github/workflows/snake.yml) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/emmanuelangelo4199/emmanuelangelo4199/snake/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/emmanuelangelo4199/emmanuelangelo4199/snake/github-contribution-grid-snake.svg" alt="snake animation" />
+</picture>
+
+</div>
+
+## `$ fortune --dev`
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+
+</div>
+
+## `$ cat philosophy.txt`
+
+> **Plan it. Build it clean. Test it. Ship it.**
+>
+> I build in public: small commits, feature branches, honest write-ups.
+> Every project teaches something the last one didn't, and sharing the process is how I keep learning. 🐍
+
+## `$ connect --all`
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-emmanuelmezie578%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emmanuelmezie578@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Emmanuel_Angelo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emmanuel-angelo)
+[![X](https://img.shields.io/badge/X-@mrangelo4199-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/mrangelo4199)
+
+</div>
+
+<div align="center">
+
+```python
+if not works:
+    read_the_traceback()
+elif not clean:
+    refactor()
+else:
+    git_push()  # 🚀 ship it
+```
+
+**#BuildInPublic** 👨‍💻
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer" width="100%"/>
+
+</div>
