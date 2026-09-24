@@ -75,9 +75,13 @@ Fast, well-structured pages that are easy to find, with SEO fundamentals baked i
 
 <img src="https://skillicons.dev/icons?i=python,django,js,java,cs,dotnet,html,css,bootstrap,tailwind&perline=10" />
 
-**Data, Tools & Environment**
+**Backend, Data & Cloud**
 
-<img src="https://skillicons.dev/icons?i=mysql,sqlite,git,github,vscode,linux&perline=8" />
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,postgresql,vercel,netlify,linux&perline=8" />
+
+**Tools & Environment**
+
+<img src="https://skillicons.dev/icons?i=git,github,postman,figma,vscode&perline=6" />
 
 </div>
 
