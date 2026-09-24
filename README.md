@@ -28,7 +28,7 @@
 angelo = {
     "location": "Across Gastby",
     "role": "Full-Stack Web Developer",
-    "focus": ["Web", "Mobile", "Backend", "Django", "AI Prompting", "SEO"],
+    "focus": ["Web", "Backend", "Django", "AI Prompting", "SEO"],
 
     "daily_drivers": {
         "backend":  ["Python", "Django", "DRF", "MySQL"],
