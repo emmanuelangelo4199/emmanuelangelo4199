@@ -28,13 +28,13 @@
 angelo = {
     "location": "Across Gastby",
     "role": "Full-Stack Web Developer",
-    "focus": ["Web", "Backend", "Django", "AI Prompting", "SEO"],
+    "focus": ["Web", "Backend", "Django", "AI Prompting", "SEO", "Fast-API"],
 
     "daily_drivers": {
-        "backend":  ["Python", "Django", "DRF", "MySQL"],
-        "frontend": ["HTML5", "CSS", "Bootstrap", "Tailwind", "JavaScript"],
+        "backend":  ["Python", "Django", "DRF", "MySQL", "Postgres-SQL", "XAMPP"],
+        "frontend": ["HTML5", "Bootstrap", "Tailwind", "JavaScript"],
         "desktop":  ["ASP.NET (C#)", "Visual Basic"],
-        "tools":    ["Git", "GitHub", "VS Code"],
+        "tools":    ["Git", "GitHub", "VS Code", "Cursor", "IntelliJ IDEA"],
     },
 
     "philosophy": "Build in public. Ship, learn, repeat.",
