@@ -73,7 +73,7 @@ Fast, well-structured pages that are easy to find, with SEO fundamentals baked i
 
 **Languages & Frameworks**
 
-<img src="https://skillicons.dev/icons?i=python,django,js,java,cs,dotnet,html,css,bootstrap,tailwind&perline=10" />
+<img src="https://skillicons.dev/icons?i=python,django,js,java,cs,dotnet,html,bootstrap,tailwind&perline=10" />
 
 **Backend, Data & Cloud**
 
@@ -94,15 +94,14 @@ Fast, well-structured pages that are easy to find, with SEO fundamentals baked i
 
 **🥗 [Porcion](https://github.com/emmanuelangelo4199/procion)**<br/>
 Behavioral weight-management platform with emotion-food tracking, peer accountability circles, and real-time group chat via Django Channels.<br/>
-`Django` · UEW Capstone
+`Django` · `Tailwind CSS` . `WebSocket` . Weight x Circle
 
 </td>
 <td width="50%" valign="top">
 
-**🏺 [Adeso](https://github.com/emmanuelangelo4199/adeso)**<br/>
-A marketplace celebrating Ghanaian artisans: artisan profiles, cultural context, a DRF API layer, and payment options including MTN Mobile Money.<br/>
-`Django` · `DRF` · Culture × Code
-
+**⛪ [MCG-SMS](https://github.com/emmanuelangelo4199/mcg_welfare_system)**<br/>
+A management system for a Methodist Church Ghana society: membership, attendance, finance, and welfare case tracking across 14 modules, with a role-based, mobile-responsive interface.<br/>
+`Django` · `Tailwind CSS` · `Celery` . Faith × Code
 </td>
 </tr>
 <!-- To add a third project: copy a <td> block above and set every width to "33%". -->
