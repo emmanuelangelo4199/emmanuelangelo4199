@@ -37,7 +37,7 @@ angelo = {
         "tools":    ["Git", "GitHub", "VS Code", "Cursor", "IntelliJ IDEA"],
     },
 
-    "philosophy": "Build in public. Ship, learn, repeat.",
+    "philosophy": " Ship, learn, repeat.",
     "when_stuck": lambda: read_the_traceback(),  # 🐍 twice, slowly
 }
 ```
