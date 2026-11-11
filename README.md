@@ -73,7 +73,7 @@ Fast, well-structured pages that are easy to find, with SEO fundamentals baked i
 
 **Languages & Frameworks**
 
-<img src="https://skillicons.dev/icons?i=python,django,js,java,cs,dotnet,html,bootstrap,tailwind&perline=10" />
+<img src="https://skillicons.dev/icons?i=python,django,js,java,cs,rust,dotnet,html,bootstrap,tailwind&perline=10" />
 
 **Backend, Data & Cloud**
 
